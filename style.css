@@ -25,6 +25,10 @@ html, body {
   max-width: none;
 }
 
+.login {
+  background: url(images/bg.png);
+}
+
 .content {
   max-width: 500px;
   margin: 0 auto;
